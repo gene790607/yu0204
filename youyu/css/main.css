@@ -1,0 +1,12 @@
+.img-circle {
+	width: 100px;
+	height: 100px;
+}
+
+#logo {
+	float: left;
+}
+nav {
+	float: right;
+	text-transform: uppercase;
+}
